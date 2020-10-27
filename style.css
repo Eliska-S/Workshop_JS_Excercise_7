@@ -4,6 +4,10 @@
     background-color: gainsboro;
 }
 
+input {
+    margin: 10px;
+}
+
 .button:hover, .button2:hover, .b3:hover {
     background-color: grey;
 }

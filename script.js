@@ -10,3 +10,9 @@ $('.b3').on('click', () => {
     $('button').css('backgroundColor', 'green');
     $('button').css('color', 'white');
 })
+
+let color = $('#barva').val();
+
+$('.b3').on('click', () => {
+    $('button').css('backgroundColor', color);
+})
