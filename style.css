@@ -1,0 +1,9 @@
+.button, .button2, .b3 {
+    margin: 10px; 
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+
+.button:hover, .button2:hover, .b3:hover {
+    background-color: grey;
+}
